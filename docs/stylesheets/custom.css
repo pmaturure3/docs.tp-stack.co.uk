@@ -1,0 +1,10 @@
+.md-header {
+  background-color: purple;
+}
+
+
+.md-header__button.md-logo img {
+  background: transparent;
+  border-radius: 4px;
+  padding: 2px;
+}

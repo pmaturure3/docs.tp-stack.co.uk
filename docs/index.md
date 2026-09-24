@@ -2,6 +2,50 @@
 
 Welcome to the TP-Stack HPC cluster documentation. This site covers everything you need to get started — from accepting your invitation to running jobs on the cluster.
 
+<div class="grid cards" markdown>
+
+- :material-server: **TP Stack**
+
+    ---
+
+    Key directories, monitoring, and rules of the road.
+
+    [→ TP Stack](tp-stack/index.md)
+
+- :material-connection: **Connecting**
+
+    ---
+
+    Accept your invitation, register, set up SSH, and transfer files.
+
+    [→ Connecting](connecting/index.md)
+
+- :material-play: **Running Jobs**
+
+    ---
+
+    Submit CPU and GPU jobs with Slurm.
+
+    [→ Running Jobs](running-jobs/index.md)
+
+- :material-language-python: **Environments**
+
+    ---
+
+    Set up shared Python environments for your project.
+
+    [→ Environments](environments/index.md)
+
+- :material-wrench: **Troubleshooting**
+
+    ---
+
+    Common problems and how to fix them.
+
+    [→ Troubleshooting](troubleshooting.md)
+
+</div>
+
 ## Quick Reference Card
 
 ### Access

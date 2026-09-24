@@ -24,6 +24,9 @@ theme:
     - content.code.copy
 
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.snippets:
       base_path: !relative
       check_paths: true

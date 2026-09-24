@@ -3,8 +3,6 @@
 }
 
 
-.md-header__button.md-logo img {
-  background: transparent;
-  border-radius: 4px;
-  padding: 2px;
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid #333;
 }

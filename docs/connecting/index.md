@@ -32,7 +32,7 @@ Fill in the following:
 Click **Register**. You'll be redirected to the TP-Stack portal and should see your project.
 
 !!! important
-    Remember your username and password — you'll need them for SSH access later.
+    Remember your username and password — you'll need them to access the portal inorder to view your accounting and billing.
 
 ## Explore the Portal
 
